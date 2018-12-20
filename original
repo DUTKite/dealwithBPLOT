@@ -1,0 +1,1305 @@
+<FileVersion>1.0.0</FileVersion>
+<CustomVersion>1.0.0</CustomVersion>
+<FileDescription>batch plot sets for AutoCAD</FileDescription>
+<FileComment>批量打印文件</FileComment>
+<MSPlotBatch>
+	<PlotFlags>3</PlotFlags>
+	<BatchName>无标题</BatchName>
+	<MSPlotFile>
+		<PlotFlags>3</PlotFlags>
+		<FileName>E:\0项目\哈尔滨\02.结构\01.施工图\4、楼梯坡道\高层楼梯\S-楼梯详图.dwg</FileName>
+		<RefPath>..\..\4、楼梯坡道\高层楼梯\S-楼梯详图.dwg</RefPath>
+		<MSPlotModel>
+			<PlotFlags>3</PlotFlags>
+			<ModelName>Model</ModelName>
+			<IsSheetType>0</IsSheetType>
+			<ViewRange>625687.34554889333,184032.21441959264,0,1133596.9361625542,503450.13249729224,0</ViewRange>
+			<ExtentRange>696870.20620071108,169687.22888282989,-599.99999999991644,1146225.2774092762,668344.32318258216,300</ExtentRange>
+			<LimitRange>0,0,0,12,9,0</LimitRange>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1+_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 1189.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>1189</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>1189</Xsize>
+					<Ysize>594</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-04-D-03# 楼梯详图（一）-A1+_BIAD</PlotName>
+					<PlotRange>832556.92193491338,483156.56620210269,0,892006.92193491338,512856.56620210269,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>832556.92193491338,483156.56620210269,0,892006.92193491338,512856.56620210269,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-03# 楼</工程名称>
+					<XRange>888440.44482679432,487255.87210808159,0,891479.75653316115,487802.94821522763,0</XRange>
+					<工程编号>2012037-D03</工程编号>
+					<XRange>888602.5414511339,486566.96145463845,0,891378.44614294893,486951.94093744492,0</XRange>
+					<图名>D-03# 楼梯详图（一）</图名>
+					<XRange>888562.01729504904,485776.7404109831,0,891398.70822099142,486222.50612791692,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>888562.01729504904,485087.82975753996,0,889433.28665087419,485351.23677209177,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>889446.56445201556,484537.73480543308,0,891340.55708034674,484909.76907171239,0</XRange>
+					<图号>S-4-04</图号>
+					<XRange>889482.08765941358,485022.86591055593,0,890413.92956236773,485375.45473870076,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>890431.97519114707,485032.39943392569,0,891270.17610928055,485343.73120351811,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>841</Xsize>
+					<Ysize>594</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-05-D-03# 楼梯详图（二）-A1_BIAD</PlotName>
+					<PlotRange>899571.87634506589,483156.56620210275,0,941621.87634506589,512856.56620210275,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>899571.87634506589,483156.56620210275,0,941621.87634506589,512856.56620210275,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-03# 楼</工程名称>
+					<XRange>938055.39923694683,487255.87210808159,0,941094.71094331366,487802.94821522763,0</XRange>
+					<工程编号>2012037-D03</工程编号>
+					<XRange>938217.49586128641,486566.96145463845,0,940993.40055310144,486951.94093744492,0</XRange>
+					<图名>D-03# 楼梯详图（二）</图名>
+					<XRange>938176.97170520155,485776.7404109831,0,941013.66263114393,486222.50612791692,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>938176.97170520155,485087.82975753996,0,939048.2410610267,485351.23677209177,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>939061.51886216807,484537.73480543308,0,940955.51149049925,484909.76907171239,0</XRange>
+					<图号>S-4-05</图号>
+					<XRange>939097.04206956609,485022.86591055593,0,940028.88397252024,485375.45473870076,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>940046.92960129958,485032.39943392569,0,940885.13051943306,485343.73120351811,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1+_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 1189.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>1189</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>1189</Xsize>
+					<Ysize>594</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-04-D-04# 楼梯详图（一）-A1+_BIAD</PlotName>
+					<PlotRange>832556.92193491338,445757.66992546106,0,892006.92193491338,475457.66992546106,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>832556.92193491338,445757.66992546106,0,892006.92193491338,475457.66992546106,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-04# 楼</工程名称>
+					<XRange>888440.44482679421,449856.9758314396,0,891479.75653316104,450404.05193858565,0</XRange>
+					<工程编号>2012037-D04</工程编号>
+					<XRange>888602.54145113379,449168.06517799647,0,891378.44614294881,449553.04466080293,0</XRange>
+					<图名>D-04# 楼梯详图（一）</图名>
+					<XRange>888562.01729504892,448377.84413434105,0,891398.70822099131,448823.60985127487,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>888562.01729504892,447688.93348089792,0,889433.28665087407,447952.34049544972,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>889446.56445201556,447138.83852879104,0,891340.55708034674,447510.87279507041,0</XRange>
+					<图号>S-4-04</图号>
+					<XRange>889482.08765941346,447623.96963391389,0,890413.92956236762,447976.55846205872,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>890431.97519114695,447633.50315728365,0,891270.17610928044,447944.83492687606,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>841</Xsize>
+					<Ysize>594</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-05-D-04# 楼梯详图（二）-A1_BIAD</PlotName>
+					<PlotRange>899571.87634506589,445757.66992546112,0,941621.87634506589,475457.66992546112,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>899571.87634506589,445757.66992546112,0,941621.87634506589,475457.66992546112,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-04# 楼</工程名称>
+					<XRange>938055.39923694683,449856.97583143995,0,941094.71094331366,450404.051938586,0</XRange>
+					<工程编号>2012037-D04</工程编号>
+					<XRange>938217.49586128641,449168.06517799682,0,940993.40055310144,449553.04466080328,0</XRange>
+					<图名>D-04# 楼梯详图（二）</图名>
+					<XRange>938176.97170520155,448377.84413434146,0,941013.66263114393,448823.60985127528,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>938176.97170520155,447688.93348089833,0,939048.2410610267,447952.34049545013,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>939061.51886216807,447138.83852879144,0,940955.51149049925,447510.87279507075,0</XRange>
+					<图号>S-4-05</图号>
+					<XRange>939097.04206956609,447623.9696339143,0,940028.88397252024,447976.55846205913,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>940046.92960129958,447633.50315728405,0,940885.13051943306,447944.83492687647,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1+_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 1189.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>1189</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>1189</Xsize>
+					<Ysize>594</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-04-D-09# 楼梯详图（一）-A1+_BIAD</PlotName>
+					<PlotRange>832556.92193491338,404278.89611488581,0,892006.92193491338,433978.89611488581,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>832556.92193491338,404278.89611488581,0,892006.92193491338,433978.89611488581,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-09# 楼</工程名称>
+					<XRange>888440.44482679432,408378.2020208647,0,891479.75653316115,408925.27812801074,0</XRange>
+					<工程编号>2012037-D09</工程编号>
+					<XRange>888602.5414511339,407689.29136742157,0,891378.44614294893,408074.27085022803,0</XRange>
+					<图名>D-09# 楼梯详图（一）</图名>
+					<XRange>888562.01729504904,406899.07032376621,0,891398.70822099142,407344.83604070003,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>888562.01729504904,406210.15967032308,0,889433.28665087419,406473.56668487488,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>889446.56445201556,405660.06471821619,0,891340.55708034674,406032.0989844955,0</XRange>
+					<图号>S-4-04</图号>
+					<XRange>889482.08765941358,406145.19582333905,0,890413.92956236773,406497.78465148387,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>890431.97519114707,406154.7293467088,0,891270.17610928055,406466.06111630122,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>841</Xsize>
+					<Ysize>594</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-05-D-09# 楼梯详图（二）-A1_BIAD</PlotName>
+					<PlotRange>899571.87634506589,404278.89611488587,0,941621.87634506589,433978.89611488587,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>899571.87634506589,404278.89611488587,0,941621.87634506589,433978.89611488587,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-09# 楼</工程名称>
+					<XRange>938055.39923694683,408378.2020208647,0,941094.71094331366,408925.27812801074,0</XRange>
+					<工程编号>2012037-D09</工程编号>
+					<XRange>938217.49586128641,407689.29136742157,0,940993.40055310144,408074.27085022803,0</XRange>
+					<图名>D-09# 楼梯详图（二）</图名>
+					<XRange>938176.97170520155,406899.07032376621,0,941013.66263114393,407344.83604070003,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>938176.97170520155,406210.15967032308,0,939048.2410610267,406473.56668487488,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>939061.51886216807,405660.06471821619,0,940955.51149049925,406032.0989844955,0</XRange>
+					<图号>S-4-05</图号>
+					<XRange>939097.04206956609,406145.19582333905,0,940028.88397252024,406497.78465148387,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>940046.92960129958,406154.7293467088,0,940885.13051943306,406466.06111630122,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>841</Xsize>
+					<Ysize>594</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-06-D-09# 楼梯详图（三）-A1_BIAD</PlotName>
+					<PlotRange>946844.49332843954,404278.89611488592,0,988894.49332843954,433978.89611488592,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>946844.49332843954,404278.89611488592,0,988894.49332843954,433978.89611488592,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-09# 楼</工程名称>
+					<XRange>985328.01622032048,408378.20202086476,0,988367.32792668731,408925.2781280108,0</XRange>
+					<工程编号>2012037-D09</工程编号>
+					<XRange>985490.11284466006,407689.29136742163,0,988266.01753647509,408074.27085022809,0</XRange>
+					<图名>D-09# 楼梯详图（三）</图名>
+					<XRange>985449.5886885752,406899.07032376627,0,988286.27961451758,407344.83604070009,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>985449.5886885752,406210.15967032313,0,986320.85804440035,406473.56668487494,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>986334.13584554172,405660.06471821625,0,988228.1284738729,406032.09898449556,0</XRange>
+					<图号>S-4-06</图号>
+					<XRange>986369.65905293974,406145.19582333911,0,987301.50095589389,406497.78465148393,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>987319.54658467323,406154.72934670886,0,988157.74750280671,406466.06111630128,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1+_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 1189.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>1189</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>1189</Xsize>
+					<Ysize>594</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-04-D-01# 楼梯详图（一）-A1+_BIAD</PlotName>
+					<PlotRange>832556.92193491338,351569.09762756899,0,892006.92193491338,381269.09762756899,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>832556.92193491338,351569.09762756899,0,892006.92193491338,381269.09762756899,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-01# 楼</工程名称>
+					<XRange>888440.44482679432,355668.40353354788,0,891479.75653316115,356215.47964069393,0</XRange>
+					<工程编号>2012037-D01</工程编号>
+					<XRange>888602.5414511339,354979.49288010475,0,891378.44614294893,355364.47236291121,0</XRange>
+					<图名>D-01# 楼梯详图（一）</图名>
+					<XRange>888562.01729504904,354189.27183644939,0,891398.70822099142,354635.03755338321,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>888562.01729504904,353500.36118300626,0,889433.28665087419,353763.76819755806,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>889446.56445201556,352950.26623089937,0,891340.55708034674,353322.30049717869,0</XRange>
+					<图号>S-4-04</图号>
+					<XRange>889482.08765941358,353435.39733602223,0,890413.92956236773,353787.98616416706,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>890431.97519114707,353444.93085939198,0,891270.17610928055,353756.2626289844,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>841</Xsize>
+					<Ysize>594.00000000000114</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-05-D-01# 楼梯详图（二）-A1_BIAD</PlotName>
+					<PlotRange>895063.04042636766,351569.09762756899,0,937113.04042636766,381269.09762756905,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>895063.04042636766,351569.09762756899,0,937113.04042636766,381269.09762756905,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-01# 楼</工程名称>
+					<XRange>933546.56331824861,355668.40353354788,0,936585.87502461544,356215.47964069393,0</XRange>
+					<工程编号>2012037-D01</工程编号>
+					<XRange>933708.65994258819,354979.49288010475,0,936484.56463440321,355364.47236291121,0</XRange>
+					<图名>D-01# 楼梯详图（二）</图名>
+					<XRange>933668.13578650332,354189.27183644939,0,936504.82671244571,354635.03755338321,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>933668.13578650332,353500.36118300626,0,934539.40514232847,353763.76819755806,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>934552.68294346984,352950.26623089937,0,936446.67557180102,353322.30049717869,0</XRange>
+					<图号>S-4-05</图号>
+					<XRange>934588.20615086786,353435.39733602223,0,935520.04805382201,353787.98616416706,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>935538.09368260135,353444.93085939198,0,936376.29460073484,353756.2626289844,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1+_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 1189.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>1189</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>1189</Xsize>
+					<Ysize>594.00000000000114</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-04-D-06# 楼梯详图（一）-A1+_BIAD</PlotName>
+					<PlotRange>937113.04042636766,351569.09762756899,0,996563.04042636766,381269.09762756905,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>937113.04042636766,351569.09762756899,0,996563.04042636766,381269.09762756905,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-06# 楼</工程名称>
+					<XRange>992996.56331824861,355668.40353354788,0,996035.87502461544,356215.47964069393,0</XRange>
+					<工程编号>2012037-D06</工程编号>
+					<XRange>993158.65994258819,354979.49288010475,0,995934.56463440321,355364.47236291121,0</XRange>
+					<图名>D-06# 楼梯详图（一）</图名>
+					<XRange>993118.13578650332,354189.27183644939,0,995954.82671244571,354635.03755338321,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>993118.13578650332,353500.36118300626,0,993989.40514232847,353763.76819755806,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>994002.68294346984,352950.26623089937,0,995896.67557180102,353322.30049717869,0</XRange>
+					<图号>S-4-04</图号>
+					<XRange>994038.20615086786,353435.39733602223,0,994970.04805382201,353787.98616416706,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>994988.09368260135,353444.93085939198,0,995826.29460073484,353756.2626289844,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>841</Xsize>
+					<Ysize>594.00000000000114</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-05-D-06# 楼梯详图（二）-A1_BIAD</PlotName>
+					<PlotRange>999619.15891782194,351569.09762756899,0,1041669.1589178219,381269.09762756905,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>999619.15891782194,351569.09762756899,0,1041669.1589178219,381269.09762756905,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-06# 楼</工程名称>
+					<XRange>1038102.6818097029,355668.40353354788,0,1041141.9935160697,356215.47964069393,0</XRange>
+					<工程编号>2012037-D06</工程编号>
+					<XRange>1038264.7784340425,354979.49288010475,0,1041040.6831258575,355364.47236291121,0</XRange>
+					<图名>D-06# 楼梯详图（二）</图名>
+					<XRange>1038224.2542779576,354189.27183644939,0,1041060.9452039,354635.03755338321,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>1038224.2542779576,353500.36118300626,0,1039095.5236337828,353763.76819755806,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>1039108.8014349241,352950.26623089937,0,1041002.7940632553,353322.30049717869,0</XRange>
+					<图号>S-4-05</图号>
+					<XRange>1039144.3246423221,353435.39733602223,0,1040076.1665452763,353787.98616416706,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>1040094.2121740556,353444.93085939198,0,1040932.4130921891,353756.2626289844,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1+_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 1189.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>1189</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>1189</Xsize>
+					<Ysize>594.00000000000114</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-04-D-08# 楼梯详图（一）-A1+_BIAD</PlotName>
+					<PlotRange>1041669.1589178219,351569.09762756899,0,1101119.1589178219,381269.09762756905,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>1041669.1589178219,351569.09762756899,0,1101119.1589178219,381269.09762756905,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-08# 楼</工程名称>
+					<XRange>1097552.6818097029,355668.40353354788,0,1100591.9935160696,356215.47964069393,0</XRange>
+					<工程编号>2012037-D08</工程编号>
+					<XRange>1097714.7784340424,354979.49288010475,0,1100490.6831258573,355364.47236291121,0</XRange>
+					<图名>D-08# 楼梯详图（一）</图名>
+					<XRange>1097674.2542779576,354189.27183644939,0,1100510.9452038999,354635.03755338321,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>1097674.2542779576,353500.36118300626,0,1098545.5236337828,353763.76819755806,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>1098558.8014349241,352950.26623089937,0,1100452.7940632554,353322.30049717869,0</XRange>
+					<图号>S-4-04</图号>
+					<XRange>1098594.3246423223,353435.39733602223,0,1099526.1665452763,353787.98616416706,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>1099544.2121740556,353444.93085939198,0,1100382.413092189,353756.2626289844,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>841</Xsize>
+					<Ysize>594</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-05-D-08# 楼梯详图（二）-A1_BIAD</PlotName>
+					<PlotRange>1104175.2774092762,351569.09762756905,0,1146225.2774092762,381269.09762756905,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>1104175.2774092762,351569.09762756905,0,1146225.2774092762,381269.09762756905,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-08# 楼</工程名称>
+					<XRange>1142658.8003011572,355668.40353354788,0,1145698.1120075239,356215.47964069393,0</XRange>
+					<工程编号>2012037-D08</工程编号>
+					<XRange>1142820.8969254966,354979.49288010475,0,1145596.8016173115,355364.47236291121,0</XRange>
+					<图名>D-08# 楼梯详图（二）</图名>
+					<XRange>1142780.3727694119,354189.27183644939,0,1145617.0636953542,354635.03755338321,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>1142780.3727694119,353500.36118300626,0,1143651.642125237,353763.76819755806,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>1143664.9199263784,352950.26623089937,0,1145558.9125547097,353322.30049717869,0</XRange>
+					<图号>S-4-05</图号>
+					<XRange>1143700.4431337765,353435.39733602223,0,1144632.2850367306,353787.98616416706,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>1144650.3306655099,353444.93085939198,0,1145488.5315836433,353756.2626289844,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1+_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 1189.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>1189</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>1189</Xsize>
+					<Ysize>594</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-04-D-02# 楼梯详图（一）-A1+_BIAD</PlotName>
+					<PlotRange>832556.92193491338,304303.42590698181,0,892006.92193491338,334003.42590698181,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>832556.92193491338,304303.42590698181,0,892006.92193491338,334003.42590698181,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-02# 楼</工程名称>
+					<XRange>888440.44482679432,308402.7318129607,0,891479.75653316115,308949.80792010674,0</XRange>
+					<工程编号>2012037-D02</工程编号>
+					<XRange>888602.5414511339,307713.82115951757,0,891378.44614294893,308098.80064232403,0</XRange>
+					<图名>D-02# 楼梯详图（一）</图名>
+					<XRange>888562.01729504904,306923.60011586221,0,891398.70822099142,307369.36583279603,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>888562.01729504904,306234.68946241908,0,889433.28665087419,306498.09647697088,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>889446.56445201556,305684.59451031219,0,891340.55708034674,306056.6287765915,0</XRange>
+					<图号>S-4-04</图号>
+					<XRange>889482.08765941358,306169.72561543505,0,890413.92956236773,306522.31444357987,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>890431.97519114707,306179.2591388048,0,891270.17610928055,306490.59090839722,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>841</Xsize>
+					<Ysize>594</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-05-D-02# 楼梯详图（二）-A1_BIAD</PlotName>
+					<PlotRange>895063.04042636766,304303.42590698187,0,937113.04042636766,334003.42590698187,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>895063.04042636766,304303.42590698187,0,937113.04042636766,334003.42590698187,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-02# 楼</工程名称>
+					<XRange>933546.56331824861,308402.7318129607,0,936585.87502461544,308949.80792010674,0</XRange>
+					<工程编号>2012037-D02</工程编号>
+					<XRange>933708.65994258819,307713.82115951757,0,936484.56463440321,308098.80064232403,0</XRange>
+					<图名>D-02# 楼梯详图（二）</图名>
+					<XRange>933668.13578650332,306923.60011586221,0,936504.82671244571,307369.36583279603,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>933668.13578650332,306234.68946241908,0,934539.40514232847,306498.09647697088,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>934552.68294346984,305684.59451031219,0,936446.67557180102,306056.6287765915,0</XRange>
+					<图号>S-4-05</图号>
+					<XRange>934588.20615086786,306169.72561543505,0,935520.04805382201,306522.31444357987,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>935538.09368260135,306179.2591388048,0,936376.29460073484,306490.59090839722,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1+_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 1189.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>1189</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>1189</Xsize>
+					<Ysize>594.00000000000114</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-05-D-07# 楼梯详图（一）-A1+_BIAD</PlotName>
+					<PlotRange>832711.87634506589,247547.55074082292,0,892161.87634506589,277247.55074082298,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>832711.87634506589,247547.55074082292,0,892161.87634506589,277247.55074082298,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-07# 楼</工程名称>
+					<XRange>888595.39923694683,251646.85664680178,0,891634.71094331366,252193.9327539478,0</XRange>
+					<工程编号>2012037-D07</工程编号>
+					<XRange>888757.49586128641,250957.94599335865,0,891533.40055310144,251342.92547616511,0</XRange>
+					<图名>D-07# 楼梯详图（一）</图名>
+					<XRange>888716.97170520155,250167.72494970329,0,891553.66263114393,250613.49066663708,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>888716.97170520155,249478.81429626016,0,889588.2410610267,249742.22131081193,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>889601.51886216807,248928.71934415327,0,891495.51149049925,249300.75361043261,0</XRange>
+					<图号>S-4-05</图号>
+					<XRange>889637.04206956609,249413.8504492761,0,890568.88397252024,249766.4392774209,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>890586.92960129958,249423.38397264588,0,891425.13051943306,249734.7157422383,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>841</Xsize>
+					<Ysize>594.00000000000114</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-06-D-07# 楼梯详图（二）-A1_BIAD</PlotName>
+					<PlotRange>892161.87634506589,247547.55074082292,0,934211.87634506589,277247.55074082298,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>892161.87634506589,247547.55074082292,0,934211.87634506589,277247.55074082298,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<工程名称>世茂府 D-07# 楼</工程名称>
+					<XRange>930645.39923694683,251646.85664680178,0,933684.71094331366,252193.9327539478,0</XRange>
+					<工程编号>2012037-D07</工程编号>
+					<XRange>930807.49586128641,250957.94599335865,0,933583.40055310144,251342.92547616511,0</XRange>
+					<图名>D-07# 楼梯详图（二）</图名>
+					<XRange>930766.97170520155,250167.72494970329,0,933603.66263114393,250613.49066663708,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>930766.97170520155,249478.81429626016,0,931638.2410610267,249742.22131081193,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>931651.51886216807,248928.71934415327,0,933545.51149049925,249300.75361043261,0</XRange>
+					<图号>S-4-06</图号>
+					<XRange>931687.04206956609,249413.8504492761,0,932618.88397252024,249766.4392774209,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>932636.92960129958,249423.38397264588,0,933475.13051943306,249734.7157422383,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>594</Xsize>
+					<Ysize>841.00000000000227</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-04-D-05# 楼梯详图（一）-A1_BIAD</PlotName>
+					<PlotRange>830789.47328493651,169687.22888282995,0,860489.47328493651,211737.22888283007,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>830789.47328493651,169687.22888282995,0,860489.47328493651,211737.22888283007,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<Rotation>4.7123889803846897</Rotation>
+					<工程名称>世茂府 D-05# 楼</工程名称>
+					<XRange>834888.7791909154,170214.39428458229,0,835435.85529806139,173253.70599094906,0</XRange>
+					<工程编号>2012037-D05</工程编号>
+					<XRange>834199.86853747221,170315.70467479451,0,834584.84802027862,173091.60936660951,0</XRange>
+					<图名>D-05# 楼梯详图（一）</图名>
+					<XRange>833409.6474938168,170295.44259675208,0,833855.41321075056,173132.13352269441,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>832720.73684037372,172260.86416686926,0,832984.14385492553,173132.13352269441,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>832170.64188826678,170353.59373739662,0,832542.67615454609,172247.5863657278,0</XRange>
+					<图号>S-4-04</图号>
+					<XRange>832655.77299338963,171280.22125537565,0,833008.36182153446,172212.06315832981,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>832665.30651675945,170423.97470846286,0,832976.63828635192,171262.17562659632,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>594</Xsize>
+					<Ysize>841.00000000000227</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-05-D-05# 楼梯详图（二）-A1_BIAD</PlotName>
+					<PlotRange>871843.79919068213,169687.22888282989,0,901543.79919068213,211737.22888283001,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>871843.79919068213,169687.22888282989,0,901543.79919068213,211737.22888283001,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<Rotation>4.7123889803846897</Rotation>
+					<工程名称>世茂府 D-05# 楼</工程名称>
+					<XRange>875943.10509666102,170214.39428458206,0,876490.18120380701,173253.70599094883,0</XRange>
+					<工程编号>2012037-D05</工程编号>
+					<XRange>875254.19444321783,170315.70467479428,0,875639.17392602423,173091.60936660928,0</XRange>
+					<图名>D-05# 楼梯详图（二）</图名>
+					<XRange>874463.97339956241,170295.44259675185,0,874909.73911649617,173132.13352269417,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>873775.06274611934,172260.86416686903,0,874038.46976067114,173132.13352269417,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>873224.96779401239,170353.59373739638,0,873597.00206029171,172247.58636572756,0</XRange>
+					<图号>S-4-05</图号>
+					<XRange>873710.09889913525,171280.22125537542,0,874062.68772728008,172212.06315832958,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>873719.63242250506,170423.97470846263,0,874030.96419209754,171262.17562659609,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>594</Xsize>
+					<Ysize>841.00000000000227</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-06-D-05# 楼梯详图（三）-A1_BIAD</PlotName>
+					<PlotRange>901543.79919068213,169687.22888282989,0,931243.79919068213,211737.22888283001,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>901543.79919068213,169687.22888282989,0,931243.79919068213,211737.22888283001,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<Rotation>4.7123889803846897</Rotation>
+					<工程名称>世茂府 D-05# 楼</工程名称>
+					<XRange>905643.10509666102,170214.39428458206,0,906190.18120380701,173253.70599094883,0</XRange>
+					<工程编号>2012037-D05</工程编号>
+					<XRange>904954.19444321783,170315.70467479428,0,905339.17392602423,173091.60936660928,0</XRange>
+					<图名>D-05# 楼梯详图（三）</图名>
+					<XRange>904163.97339956241,170295.44259675185,0,904609.73911649617,173132.13352269417,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>903475.06274611934,172260.86416686903,0,903738.46976067114,173132.13352269417,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>902924.96779401239,170353.59373739638,0,903297.00206029171,172247.58636572756,0</XRange>
+					<图号>S-4-06</图号>
+					<XRange>903410.09889913525,171280.22125537542,0,903762.68772728008,172212.06315832958,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>903419.63242250506,170423.97470846263,0,903730.96419209754,171262.17562659609,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+		</MSPlotModel>
+	</MSPlotFile>
+	<MSPlotFile>
+		<PlotFlags>3</PlotFlags>
+		<FileName>E:\0项目\哈尔滨\02.结构\01.施工图\4、楼梯坡道\户内楼梯\349户内楼梯.dwg</FileName>
+		<RefPath>..\..\4、楼梯坡道\户内楼梯\349户内楼梯.dwg</RefPath>
+		<MSPlotModel>
+			<PlotFlags>3</PlotFlags>
+			<ModelName>Model</ModelName>
+			<IsSheetType>0</IsSheetType>
+			<ViewRange>419624.35882904776,27240.551288998569,0,874199.02820639918,300989.93782011076,0</ViewRange>
+			<ExtentRange>-70504.429332755972,-27067.43572883711,-3044.8190793778267,233040.17197389668,86836.211849962361,8.159213510063682e-019</ExtentRange>
+			<LimitRange>0,0,0,12,9,0</LimitRange>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>594</Xsize>
+					<Ysize>841</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-06-D-03# 越户内 LT-1 、 LT-2 楼梯详图-A1_BIAD</PlotName>
+					<PlotRange>-46288.724204809638,-16051.533214552037,0,-16588.724204809638,25998.466785447963,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>-46288.724204809638,-16051.533214552037,0,-16588.724204809638,25998.466785447963,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<Rotation>4.7123889803846897</Rotation>
+					<工程名称>世茂府 D-03# 楼</工程名称>
+					<XRange>-42189.418298830591,-15524.367812799728,0,-41642.342191684598,-12485.056106433107,0</XRange>
+					<工程编号>2012037-D03</工程编号>
+					<XRange>-42878.328952273689,-15423.057422587506,0,-42493.349469467248,-12647.152730772659,0</XRange>
+					<图名>D-03# 越户内 LT-1 、 LT-2 楼梯详图</图名>
+					<XRange>-43668.54999592901,-15443.319500629952,0,-43222.784278995241,-12606.628574687771,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>-44357.460649372115,-13477.897930512869,0,-44094.053634820339,-12606.628574687771,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>-44907.555601478969,-15385.168359985411,0,-44535.52133519965,-13491.175731654319,0</XRange>
+					<图号>S-4-06</图号>
+					<XRange>-44422.424496356158,-14458.54084200641,0,-44069.835668211366,-13526.698939052318,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>-44412.890972986366,-15314.787388919141,0,-44101.559203393961,-14476.586470785736,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>594</Xsize>
+					<Ysize>841</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-06-D-04# 越户内 LT-1 、 LT-2 楼梯详图-A1_BIAD</PlotName>
+					<PlotRange>-16588.724204809638,-16051.533214552037,0,13111.275795190362,25998.466785447963,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>-16588.724204809638,-16051.533214552037,0,13111.275795190362,25998.466785447963,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<Rotation>4.7123889803846897</Rotation>
+					<工程名称>世茂府 D-04# 楼</工程名称>
+					<XRange>-12489.41829883058,-15524.367812799728,0,-11942.342191684591,-12485.056106433107,0</XRange>
+					<工程编号>2012037-D04</工程编号>
+					<XRange>-13178.328952273681,-15423.057422587506,0,-12793.349469467243,-12647.152730772659,0</XRange>
+					<图名>D-04# 越户内 LT-1 、 LT-2 楼梯详图</图名>
+					<XRange>-13968.549995929005,-15443.319500629952,0,-13522.784278995234,-12606.628574687771,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>-14657.460649372104,-13477.897930512869,0,-14394.05363482033,-12606.628574687771,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>-15207.555601478965,-15385.168359985411,0,-14835.521335199644,-13491.175731654319,0</XRange>
+					<图号>S-4-06</图号>
+					<XRange>-14722.424496356149,-14458.54084200641,0,-14369.835668211357,-13526.698939052318,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>-14712.890972986363,-15314.787388919141,0,-14401.559203393956,-14476.586470785736,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>594</Xsize>
+					<Ysize>841</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-07-D-09# 越户内 LT-1 、 LT-2 楼梯详图-A1_BIAD</PlotName>
+					<PlotRange>13111.275795190362,-16051.533214552037,0,42811.275795190362,25998.466785447963,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>13111.275795190362,-16051.533214552037,0,42811.275795190362,25998.466785447963,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<Rotation>4.7123889803846897</Rotation>
+					<工程名称>世茂府 D-09# 楼</工程名称>
+					<XRange>17210.581701169154,-15524.367812799726,0,17757.657808315165,-12485.056106432996,0</XRange>
+					<工程编号>2012037-D09</工程编号>
+					<XRange>16521.671047726028,-15423.057422587503,0,16906.650530532479,-12647.152730772556,0</XRange>
+					<图名>D-09# 越户内 LT-1 、 LT-2 楼梯详图</图名>
+					<XRange>15731.450004070677,-15443.319500629948,0,16177.215721004464,-12606.628574687666,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>15042.539350627552,-13477.897930512794,0,15305.946365179336,-12606.628574687666,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>14492.444398520673,-15385.168359985404,0,14864.478664800006,-13491.175731654244,0</XRange>
+					<图号>S-4-07</图号>
+					<XRange>14977.575503643506,-14458.54084200637,0,15330.16433178831,-13526.698939052245,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>14987.109027013292,-15314.787388919131,0,15298.440796605712,-14476.586470785696,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>594</Xsize>
+					<Ysize>841</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-06-D-01# 越户内 LT-1 、 LT-2 楼梯详图-A1_BIAD</PlotName>
+					<PlotRange>42811.275795190362,-16051.533214552037,0,72511.275795190362,25998.466785447963,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>42811.275795190362,-16051.533214552037,0,72511.275795190362,25998.466785447963,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<Rotation>4.7123889803846897</Rotation>
+					<工程名称>世茂府 D-01# 楼</工程名称>
+					<XRange>46910.581701169416,-15524.367812799728,0,47457.657808315409,-12485.056106433107,0</XRange>
+					<工程编号>2012037-D01</工程编号>
+					<XRange>46221.671047726319,-15423.057422587506,0,46606.650530532759,-12647.152730772659,0</XRange>
+					<图名>D-01# 越户内 LT-1 、 LT-2 楼梯详图</图名>
+					<XRange>45431.450004070997,-15443.319500629952,0,45877.215721004766,-12606.628574687771,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>44742.539350627892,-13477.897930512869,0,45005.946365179669,-12606.628574687771,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>44192.444398521038,-15385.168359985411,0,44564.478664800357,-13491.175731654319,0</XRange>
+					<图号>S-4-06</图号>
+					<XRange>44677.57550364385,-14458.54084200641,0,45030.164331788641,-13526.698939052318,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>44687.109027013634,-15314.787388919141,0,44998.440796606039,-14476.586470785736,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>594</Xsize>
+					<Ysize>841</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-06-D-02# 越户内 LT-1 、 LT-2 楼梯详图-A1_BIAD</PlotName>
+					<PlotRange>72511.275795190362,-16051.533214552037,0,102211.27579519036,25998.466785447963,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>72511.275795190362,-16051.533214552037,0,102211.27579519036,25998.466785447963,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<Rotation>4.7123889803846897</Rotation>
+					<工程名称>世茂府 D-02# 楼</工程名称>
+					<XRange>76610.581701169431,-15524.367812799725,0,77157.657808315416,-12485.0561064331,0</XRange>
+					<工程编号>2012037-D02</工程编号>
+					<XRange>75921.671047726326,-15423.057422587504,0,76306.650530532759,-12647.152730772654,0</XRange>
+					<图名>D-02# 越户内 LT-1 、 LT-2 楼梯详图</图名>
+					<XRange>75131.450004071012,-15443.31950062995,0,75577.215721004788,-12606.628574687766,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>74442.539350627907,-13477.897930512865,0,74705.946365179683,-12606.628574687766,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>73892.444398521053,-15385.16835998541,0,74264.478664800379,-13491.175731654315,0</XRange>
+					<图号>S-4-06</图号>
+					<XRange>74377.575503643864,-14458.540842006409,0,74730.164331788663,-13526.698939052314,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>74387.109027013648,-15314.78738891914,0,74698.440796606053,-14476.586470785733,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>594</Xsize>
+					<Ysize>841</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-06-D-06# 越户内 LT-1 、 LT-2 楼梯详图-A1_BIAD</PlotName>
+					<PlotRange>102211.27579519036,-16051.533214552037,0,131911.27579519036,25998.466785447963,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>102211.27579519036,-16051.533214552037,0,131911.27579519036,25998.466785447963,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<Rotation>4.7123889803846897</Rotation>
+					<工程名称>世茂府 D-06# 楼</工程名称>
+					<XRange>106310.58170116943,-15524.367812799725,0,106857.65780831542,-12485.0561064331,0</XRange>
+					<工程编号>2012037-D06</工程编号>
+					<XRange>105621.67104772633,-15423.057422587504,0,106006.65053053276,-12647.152730772654,0</XRange>
+					<图名>D-06# 越户内 LT-1 、 LT-2 楼梯详图</图名>
+					<XRange>104831.45000407101,-15443.31950062995,0,105277.21572100479,-12606.628574687766,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>104142.53935062791,-13477.897930512865,0,104405.94636517968,-12606.628574687766,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>103592.44439852105,-15385.16835998541,0,103964.47866480038,-13491.175731654315,0</XRange>
+					<图号>S-4-06</图号>
+					<XRange>104077.57550364386,-14458.540842006409,0,104430.16433178866,-13526.698939052314,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>104087.10902701365,-15314.78738891914,0,104398.44079660605,-14476.586470785733,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>594</Xsize>
+					<Ysize>841</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-06-D-08# 越户内 LT-1 、 LT-2 楼梯详图-A1_BIAD</PlotName>
+					<PlotRange>131911.27579519036,-16051.533214552037,0,161611.27579519036,25998.466785447963,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>131911.27579519036,-16051.533214552037,0,161611.27579519036,25998.466785447963,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<Rotation>4.7123889803846897</Rotation>
+					<工程名称>世茂府 D-08# 楼</工程名称>
+					<XRange>136010.58170116943,-15524.367812799715,0,136557.65780831542,-12485.056106433098,0</XRange>
+					<工程编号>2012037-D08</工程编号>
+					<XRange>135321.67104772633,-15423.057422587493,0,135706.65053053276,-12647.15273077265,0</XRange>
+					<图名>D-08# 越户内 LT-1 、 LT-2 楼梯详图</图名>
+					<XRange>134531.450004071,-15443.319500629939,0,134977.21572100476,-12606.628574687762,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>133842.53935062789,-13477.89793051286,0,134105.94636517967,-12606.628574687762,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>133292.44439852104,-15385.168359985397,0,133664.47866480035,-13491.175731654308,0</XRange>
+					<图号>S-4-06</图号>
+					<XRange>133777.57550364386,-14458.5408420064,0,134130.16433178866,-13526.698939052309,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>133787.10902701365,-15314.787388919127,0,134098.44079660607,-14476.586470785724,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+			<MSPlotBox>
+				<PlotFlags>3</PlotFlags>
+				<MSPlotInfo>
+					<PrintFile>*%DESKTOP%\哈尔滨\(工程名称)\(图号)-(图名)-[纸张名称]</PrintFile>
+					<PrinterName>DWG To PDF-BJ.pc3</PrinterName>
+					<PenTableFile>六院改-CAD打印样式-正常(hp700) .ctb</PenTableFile>
+					<Units>4</Units>
+					<Quality>2</Quality>
+					<ColorMode>0</ColorMode>
+					<Copies>1</Copies>
+					<PaperName>A1_BIAD</PaperName>
+					<Canonical>UserDefinedMetric (594.00 x 841.00毫米)</Canonical>
+					<Xpaper>594</Xpaper>
+					<Ypaper>841</Ypaper>
+					<Orientation>0</Orientation>
+					<AreaType>1</AreaType>
+					<Scale>50</Scale>
+					<Xsize>594</Xsize>
+					<Ysize>841</Ysize>
+					<AutoCenter>3</AutoCenter>
+					<Maximize>0</Maximize>
+					<Mirror>0</Mirror>
+					<ExpFlags>251723821</ExpFlags>
+					<PlotName>S-4-07-D-05#LT-1 、 LT-2 楼梯详图-A1_BIAD</PlotName>
+					<PlotRange>161611.27579519036,-16051.533214552037,0,191311.27579519036,25998.466785447963,0</PlotRange>
+				</MSPlotInfo>
+				<BoxInfos>
+					<BoxRange>161611.27579519036,-16051.533214552037,0,191311.27579519036,25998.466785447963,0</BoxRange>
+					<BoxFileName>北京院模板_06（块中英文字）-改.vtf</BoxFileName>
+					<Rotation>4.7123889803846897</Rotation>
+					<工程名称>世茂府 D-05# 楼</工程名称>
+					<XRange>165710.58170116943,-15524.367812799715,0,166257.65780831542,-12485.056106433098,0</XRange>
+					<工程编号>2012037-D05</工程编号>
+					<XRange>165021.67104772633,-15423.057422587493,0,165406.65053053276,-12647.15273077265,0</XRange>
+					<图名>D-05#LT-1 、 LT-2 楼梯详图</图名>
+					<XRange>164231.450004071,-15443.319500629939,0,164677.21572100476,-12606.628574687762,0</XRange>
+					<设计阶段>施工图</设计阶段>
+					<XRange>163542.53935062789,-13477.89793051286,0,163805.94636517967,-12606.628574687762,0</XRange>
+					<出图日期>年月日 2018 09 14 YEAR MONTH DAY</出图日期>
+					<XRange>162992.44439852104,-15385.168359985397,0,163364.47866480035,-13491.175731654308,0</XRange>
+					<图号>S-4-07</图号>
+					<XRange>163477.57550364386,-14458.5408420064,0,163830.16433178866,-13526.698939052309,0</XRange>
+					<版本号>V1.0</版本号>
+					<XRange>163487.10902701365,-15314.787388919127,0,163798.44079660607,-14476.586470785724,0</XRange>
+				</BoxInfos>
+			</MSPlotBox>
+		</MSPlotModel>
+	</MSPlotFile>
+</MSPlotBatch>
